@@ -15,7 +15,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #heading>Documentation</template>
 
     Vue’s
-    <a target="_blank" href="https://vuejs.org/">officiasl</a>
+    <a target="_blank" href="https://vuejs.org/">offisssciasl</a>
     poooooop you with all information you need to get.
   </WelcomeItem>
 
