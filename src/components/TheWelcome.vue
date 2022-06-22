@@ -16,7 +16,7 @@ import SupportIcon from "./icons/IconSupport.vue";
 
     Vue’s
     <a target="_blank" href="https://vuejs.org/">official documentation</a>
-    poooooop you with all information you need to get started.
+    poooooop you with all information you need to get.
   </WelcomeItem>
 
   <WelcomeItem>
